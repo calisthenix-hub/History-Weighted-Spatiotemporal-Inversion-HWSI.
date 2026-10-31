@@ -1,0 +1,11 @@
+# conda env create -f environment.yml && conda activate hwsi
+name: hwsi
+channels:
+  - gimli
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pygimli=1.5.5
+  - numpy>=1.24,<2.0
+  - scipy>=1.10
+  - matplotlib>=3.7

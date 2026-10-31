@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "History-Weighted Spatiotemporal Inversion (HWSI): revision code"
+authors:
+  - family-names: Singh
+    given-names: Gaurav
+  - family-names: Banerjee Chattopadhyay
+    given-names: Pallavi
+  - family-names: Gupta
+    given-names: Garvit
+  - family-names: Kumar
+    given-names: Praveen
+license: MIT
+repository-code: "https://github.com/calisthenix-hub/History-Weighted-Spatiotemporal-Inversion-HWSI"
+preferred-citation:
+  type: article
+  title: "History-Weighted Spatiotemporal Inversion (HWSI): A Cell-Adaptive Temporal Regularisation Framework for Time-Lapse Electrical Resistivity Tomography"
+  authors:
+    - family-names: Singh
+      given-names: Gaurav
+    - family-names: Banerjee Chattopadhyay
+      given-names: Pallavi
+    - family-names: Gupta
+      given-names: Garvit
+    - family-names: Kumar
+      given-names: Praveen
+  journal: "Computers & Geosciences"
+  status: submitted

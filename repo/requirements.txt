@@ -1,0 +1,8 @@
+# The versions the manuscript was run with.
+# pyGIMLi 1.5.5 is pinned deliberately: later releases change the
+# pygimli.physics.ert API (TimelapseERT, ERTManager.invert) and results are
+# not guaranteed to reproduce.
+pygimli==1.5.5
+numpy>=1.24,<2.0
+scipy>=1.10
+matplotlib>=3.7
