@@ -1,0 +1,8 @@
+   # cached results and generated figures (re-created by the scripts)
+   *.pkl
+   *.png
+   __pycache__/
+   .ipynb_checkpoints/
+   # field measurements are available on request, not distributed here
+   field_data/
+   *.Dat
